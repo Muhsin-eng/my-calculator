@@ -1,20 +1,31 @@
-# 🧮 My Simple Calculator
+# 🧮 Simple Calculator
 
-This is a simple calculator project built with **HTML, CSS, and JavaScript**.
+This project is a basic calculator built using **HTML, CSS, and JavaScript**.
 
-### 🚀 Features
-- Add two numbers
-- Clean interface
-- Responsive design (works on phones & computers)
+## 🚀 Features
+- Adds two numbers entered by the user
+- User-friendly and clean interface
+- Responsive design suitable for desktop and mobile devices
+- Input validation to prevent errors
 
-### 📚 What I learned
-- DOM manipulation in JavaScript
-- Event handling
-- Basic styling with CSS
+## 📚 What I Learned
+- Manipulating the DOM with JavaScript
+- Handling user events (click, input)
+- Styling with CSS for layout and responsiveness
+- Basic form validation techniques
 
-### 🔗 Live Demo
-👉 *Coming soon with GitHub Pages!*
+## 🛠️ Technologies Used
+- HTML5
+- CSS3 (Flexbox)
+- Vanilla JavaScript (ES6)
+
+## 🔗 Live Demo
+*Coming soon on GitHub Pages!*
+
+## 📂 How to Run Locally
+1. Clone the repository
+2. Open `index.html` with your web browser
 
 ---
 
-> 🇫🇷 Ce projet fait partie de mon parcours pour devenir développeur front-end. Suivez mes progrès sur GitHub ou contactez-moi si vous aimez ce que je fais !
+Feel free to check the code and contact me if you want to know more about the project or collaborate!

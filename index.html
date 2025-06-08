@@ -1,21 +1,26 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Calculateur Magique</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Magic Calculator</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Calculateur Magique</h1>
+  <div class="container">
+    <h1>🧮 Magic Calculator</h1>
 
-  <input type="text" id="input1" placeholder="Entrez un nombre ou un texte">
-  <input type="text" id="input2" placeholder="Entrez un autre">
-  
-  <button onclick="addition()">Addition</button>
-  <button onclick="concatener()">Concaténer</button>
-  <button onclick="comparer()">Comparer</button>
+    <input type="text" id="input1" placeholder="Enter a number or text">
+    <input type="text" id="input2" placeholder="Enter another one">
 
-  <p id="resultat"></p>
+    <div class="buttons">
+      <button onclick="addition()">Add ➕</button>
+      <button onclick="concatener()">Concatenate 🔗</button>
+      <button onclick="comparer()">Compare ⚖️</button>
+    </div>
+
+    <p id="resultat">Result will appear here...</p>
+  </div>
 
   <script src="script.js"></script>
 </body>
